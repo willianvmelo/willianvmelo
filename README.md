@@ -12,7 +12,7 @@
 
 :books: I’m currently learning about:
 
-HTML5, CSS3, JAVASCRIPT, REACT.JS, VUE.JS, ADONIS.JS ...
+PYTHON, DJANGO, SQL, HTML5, CSS3, JAVASCRIPT ...
 
 :outbox_tray: 2021 Goals: find a new job.
 
@@ -21,8 +21,6 @@ HTML5, CSS3, JAVASCRIPT, REACT.JS, VUE.JS, ADONIS.JS ...
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/willianvmelo)](https://github.com/willianvmelo)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/willian-melo-27a32b1b5/)]( https://www.linkedin.com/in/willian-melo-27a32b1b5/)
 
 
 - Thanks for visiting.
