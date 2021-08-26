@@ -12,7 +12,7 @@
 
 :books: I’m currently learning about:
 
-PYTHON, DJANGO, SQL, HTML5, CSS3, JAVASCRIPT...
+HTML5, CSS3, JAVASCRIPT, REACT.JS, VUE.JS, ADONIS.JS ...
 
 :outbox_tray: 2021 Goals: find a new job.
 
