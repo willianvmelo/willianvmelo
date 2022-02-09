@@ -4,8 +4,8 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://estacio.br/">Estácio</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Python,Django,HTML,CSS, JAVASCRIPT E TYPESCRIP**.
-- :briefcase: Buscando um emprego em Desenvolvimento de Software.
+- 🌱 &nbsp; Aprendendo mais sobre **React,HTML,CSS, JAVASCRIPT E TYPESCRIP**.
+- :briefcase: Buscando um emprego como desenvolvedor Front-end.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -13,9 +13,7 @@
 
 **Aplicações e Dados**
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
