@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://estacio.br/">Estácio</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **React,HTML,CSS, JAVASCRIPT E TYPESCRIP**.
+- 🌱 &nbsp; Aprendendo mais sobre **Pyton,Django,React,HTML,CSS, JAVASCRIPT E TYPESCRIP**.
 - :briefcase: Buscando um emprego como desenvolvedor Front-end.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -12,7 +12,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=willianvmelo)
 
 **Aplicações e Dados**
-
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
