@@ -5,7 +5,7 @@
 - :briefcase: Desenvolvedor Fullstack na <a href="https://cherokee.com.br/">Cherokee</a>
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Graduado em **Análise e Desenvolvimento de Sistemas** na <a href="https://estacio.br/">Estácio</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Pyton,Django,React,HTML,CSS, JAVASCRIPT e TYPESCRIP**.
+- 🌱 &nbsp; Aprendendo mais sobre **Pyton, Django, React, HTML, CSS, JAVASCRIPT e TYPESCRIP**.
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
